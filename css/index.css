@@ -1,0 +1,71 @@
+/* Estilos generales */
+* {
+   margin: 0px;   
+}
+
+body {
+   
+   font-family: 'Roboto', sans-serif;
+   display: grid;  
+   grid-template-rows: auto 1fr auto;
+}
+
+header{
+    position: fixed;
+}
+
+cuerpo{
+    margin-left: 10px;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4rem;
+    margin-bottom: 50px;
+}
+
+p {
+  
+    font-size: 1.5rem;
+    /* margin-left: 55rem; */
+    margin-top: 5px;
+    margin-left: 35%;
+}
+
+footer{
+    background-color: #727171;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;    
+     
+}
+
+.title {
+    text-align: center;
+    font-size: 4rem;
+    margin-bottom: 50px;
+    margin-top: 0rem;
+}
+
+.nombre{
+    color: rgb(0, 8, 255);
+}
+
+.rodolfo{
+    margin-left: 51rem;
+}
+
+.edad{
+    margin-left: 56rem;
+}
+
+.rodol{
+    margin-left: 54rem;
+}
+
+.email{
+    margin-left: 52rem;
+}

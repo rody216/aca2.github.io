@@ -1,0 +1,75 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container-fluid {
+	margin-left: 10rem;
+	margin-right: 10rem;
+
+}
+
+header{
+    position: fixed;
+}
+
+.titulo {
+	text-align: center;
+	font-size: 2.5em;
+	margin-top: -30px;
+	margin-bottom: 20px;
+}
+
+.subtitulo {
+	align-items: center;
+	text-align: center;
+	color: rgb(0, 17, 255);
+
+}
+
+.subtitulo2 {
+	align-items: center;
+	text-align: right;
+	color: rgb(0, 17, 255);
+}
+
+.subtitulo3 {
+	align-items: center;
+	text-align: justify;
+	color: rgb(0, 17, 255);
+	
+}
+
+.subtitulo4 {
+	align-items: center;
+	text-align: left;
+	color: rgb(0, 17, 255);
+}
+
+
+.parrafo {
+	font-size: 1.2em;
+	line-height: 1.5em;
+	margin: 0 20px;
+}
+
+.centro {
+	text-align: center;
+}
+
+.derecha {
+	text-align: right;
+}
+
+.justificado {
+	text-align: justify;
+	margin-bottom: 20px;
+}
+
+.izquierda {
+	text-align: left;
+}
+
+h2 {
+	align-items: center;
+}

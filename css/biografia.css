@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+div.cuerpo{
+    margin: 0 10%;
+}
+
+h1{
+    margin-bottom: 10px;
+}
+
+h2{
+    margin-top: 10px;
+}

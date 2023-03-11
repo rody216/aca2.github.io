@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+#footer {
+  font-size: 14px;
+  background-color: #5a5a5a;
+  position: absolute;
+  bottom: 0;
+  width: 90rem;
+  height: 70px;
+  align-items: center;
+  text-align: center;
+}
+
+.titulo {
+  margin-top: 10px;
+  color: #ffffff;
+ 
+}
+
+.titul{
+  margin-top: 10px;
+  color: #ffffff;
+  
+}
